@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @schulman78
 - 👀 I’m interested in Design, Web Design, Web Development, Programming.
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Web Development by HTML, CSS, JS, SQL.
+- 💞️ I’m looking to collaborate on Web Development by HTML, CSS, JS, SQL, Python.
 - 📫 How to reach me: you can write me schulman_78@mail.ru
 
 <!---
